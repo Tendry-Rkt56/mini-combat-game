@@ -1,0 +1,14 @@
+/home/kevinrandria/TestCSharp/bin/Debug/net8.0/TestCSharp
+/home/kevinrandria/TestCSharp/bin/Debug/net8.0/TestCSharp.deps.json
+/home/kevinrandria/TestCSharp/bin/Debug/net8.0/TestCSharp.runtimeconfig.json
+/home/kevinrandria/TestCSharp/bin/Debug/net8.0/TestCSharp.dll
+/home/kevinrandria/TestCSharp/bin/Debug/net8.0/TestCSharp.pdb
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.AssemblyInfoInputs.cache
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.AssemblyInfo.cs
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.csproj.CoreCompileInputs.cache
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.dll
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/refint/TestCSharp.dll
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.pdb
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/TestCSharp.genruntimeconfig.cache
+/home/kevinrandria/TestCSharp/obj/Debug/net8.0/ref/TestCSharp.dll
