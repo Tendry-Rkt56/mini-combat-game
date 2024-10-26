@@ -44,7 +44,7 @@ public class Guerrier
     public void LancerAttaqueAvecDefense(Guerrier cible)
     {
         if(this.Attaque<cible.Defense) {
-            this.Sante -= (cible.Defense-this.Attaque);
+            this.Sante -= (cible.Defense - this.Attaque);
         }
         else if(this.Attaque>cible.Defense) {
             cible.Sante -= (this.Attaque-cible.Defense);
