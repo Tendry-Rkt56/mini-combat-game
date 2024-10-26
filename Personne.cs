@@ -47,7 +47,7 @@ public class Guerrier
             this.Sante -= (cible.Defense - this.Attaque);
         }
         else if(this.Attaque>cible.Defense) {
-            cible.Sante -= (this.Attaque-cible.Defense);
+            cible.Sante -= (this.Attaque - cible.Defense);
         }
         else {
             Console.WriteLine("vous etes à egalité");
